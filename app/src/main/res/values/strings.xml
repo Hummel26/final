@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android59160359</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">title</string>
+    <string name="Image">image</string>
+    <string name="about">About</string>
+    <string name="desc">description</string>
+    <string name="share">Share</string>
+    <string name="author">Tarapong Kongkapun 59160359</string>
+</resources>
